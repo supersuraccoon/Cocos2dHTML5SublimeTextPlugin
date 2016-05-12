@@ -1,0 +1,5 @@
+[
+	{ "command": "cc_goto_definition", "caption": "Goto Definition (Cocos2d)", "id": "cc_goto_definition"},
+	{ "command": "cc_resource_list", "caption": "Resource List (Cocos2d)", "id": "cc_resource_list"},
+    { "caption": "-", "id": "end" }
+]

@@ -1,0 +1,18 @@
+// TemplateLayer.js
+
+var TemplateLayer = cc.Layer.extend({
+    ctor:function () {
+        cc.associateWithNative( this, cc.Layer );
+        this._super();
+    },  
+    init:function () {
+        return true;
+    }
+});
+
+TemplateLayer.create = function () {
+    var templateLayer = new TemplateLayer();
+    if (templateLayer && templateLayer.init()) 
+        return templateLayer;
+    return null;
+};

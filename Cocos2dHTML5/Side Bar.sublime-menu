@@ -1,0 +1,69 @@
+[
+    { 
+        "caption": "-", 
+        "id": "ccjs" }
+    ,
+    
+    {
+        "caption": "Create Project (Cocos2d)",
+        "id": "create_cocos_project",
+        "command": "create_cocos_project",
+        "args": {
+            "dirs": []
+        }
+    },
+
+    {
+        "caption": "New JS File (Cocos2d)",
+        "id": "new_js_file",
+        "command": "new_js_file",
+        "args": {
+            "dirs": []
+        }
+    },
+    
+    {
+        "caption": "Update Resource List",
+        "id": "update_resource_list",
+        "command": "update_resource_list",
+        "args": {
+            "files": []
+        }
+    },
+
+    {
+        "caption": "Run in Browser",
+        "id": "run_in_browser",
+        "command": "run_in_browser",
+        "args": {
+            "files": []
+        }
+    },
+
+    {
+        "caption": "Create Depoly Folder",
+        "id": "create_depoly_folder",
+        "command": "create_depoly_folder",
+        "args": {
+            "dirs": []
+        }
+    },
+
+    {
+        "caption": "Run ant",
+        "id": "run_ant",
+        "command": "run_ant",
+        "args": {
+            "dirs": []
+        }
+    },
+    
+    {
+        "caption": "Compile jsc",
+        "id": "compile_jsc",
+        "command": "compile_jsc",
+        "args": {
+            "dirs": []
+        }
+    }
+]

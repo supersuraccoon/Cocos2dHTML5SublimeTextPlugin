@@ -1,0 +1,16 @@
+{
+	"src_folders": [
+		"cocos2d_js"
+	],
+
+    "dst_folder": "release/jsc",
+    
+    "pre_order": [
+    ],
+    
+    "post_order": [
+    ],
+    
+    "skip": [
+    ]
+}

@@ -1,0 +1,4 @@
+[
+    {"keys": ["ctrl+shift+g"], "command": "cc_goto_definition"},
+    {"keys": ["ctrl+shift+r"], "command": "cc_resource_list"}
+]

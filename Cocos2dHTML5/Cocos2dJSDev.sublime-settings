@@ -1,0 +1,27 @@
+{
+    // dir for cocos2d-html5
+    //"cocos2d_html5_root": "D:/Cocos2d-html5-v2.2.1",
+    "cocos2d_html5_root": "/Users/supersuraccoon/Desktop/Cocos2d-html5_develop_tutorial/game_engine/Cocos2d-html5-v2.2.2",
+    
+    // template
+    "author": "supersuraccoon",
+    
+    // compile_scripts encrypt key,no encrypt when empty
+    "compile_scripts_key": "test",
+
+    // run in browser
+    "browsers": {
+    	"ie": "C:/Program Files/Internet Explorer/iexplore.exe",
+		"firefox": "D:/Program Files/Mozilla Firefox/firefox.exe",
+		"chrome": "C:/Documents and Settings/lattimore/Local Settings/Application Data/Google/Chrome/Application/chrome.exe",
+		"safari": "",
+		"opera": ""
+    },
+	"local_server_path": "localhost:80/CoolEffects",
+
+	"ant": {
+		"mode": "advanced",
+		"debug": "true",
+		"output": "release/test.js"
+	}
+}
